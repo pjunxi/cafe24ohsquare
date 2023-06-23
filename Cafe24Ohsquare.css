@@ -5,5 +5,5 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: local("Cafe24Ohsquare"), url("Cafe24Ohsquare.woff2") format("woff2"), url("Cafe24Ohsquare.woff") format("woff"), url("Cafe24Ohsquare.ttf") format("truetype");
+    src: local("Cafe24Ohsquare"), url("Cafe24Ohsquare-v2.0.woff2") format("woff2"), url("Cafe24Ohsquare-v2.0.woff") format("woff"), url("Cafe24Ohsquare-v2.0.ttf") format("truetype"), url("Cafe24Ohsquare-v2.0.otf") format("opentype");
 }
